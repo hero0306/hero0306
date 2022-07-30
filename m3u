@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1
+http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
+#EXTINF:-1 ,CCTV2
+http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
+#EXTINF:-1 ,CCTV3
+http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1 ,CCTV4
+http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 ,CCTV4k
+http://open.live-web.timetv.cn/live03/cctv4k.m3u8
+#EXTINF:-1 ,CCTV5
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1 ,CCTV5+
+http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
+#EXTINF:-1 ,CCTV6
+http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 ,CCTV7
+http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
+#EXTINF:-1 ,CCTV8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 ,CCTV9
+http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+#EXTINF:-1 ,CCTV10
+http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+#EXTINF:-1 ,CCTV11
+http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 ,CCTV12
+http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 ,CCTV13
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 ,CCTV14
+http://39.134.115.163:8080/PLTV/88888910/224/3221225640/index.m3u8
+#EXTINF:-1 ,CCTV15
+http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 ,CCTV17
+http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 ,CGTN Arabic
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 ,CGTN Espa帽ol
+http://livees.cgtn.com/500e/prog_index.m3u8
+#EXTINF:-1 ,CGTN France
+http://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 ,CHC鐢靛奖
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 ,CHC鍔ㄤ綔鐢靛奖
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 ,CHC瀹跺涵褰遍櫌
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 ,CNC鑻辨枃
+http://39.134.115.163:8080/PLTV/88888910/224/3221225693/index.m3u8
+#EXTINF:-1 ,CNC涓枃
+http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
+#EXTINF:-1 ,IPTV5+
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226342/1.m3u8
+#EXTINF:-1 ,IPTV6+
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226343/1.m3u8
+#EXTINF:-1 ,IPTV8+
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226344/1.m3u8
+#EXTINF:-1 ,闃垮潩鏂囪壓棰戦亾
+http://ablive.abatv.com.cn:90/live/wypd.m3u8
+#EXTINF:-1 ,闃垮潩缁煎悎棰戦亾
+http://ablive.abatv.com.cn:90/live/zhpd.m3u8
+#EXTINF:-1 ,鐖卞璐墿
+http://tvlive.siqiangame.com/ugotvlive/aijiatv.m3u8?auth_key=1860547259-0-0-77940e9d27746d1ae88f7d31e81191d0
+#EXTINF:-1 ,鐖变笂4K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
+#EXTINF:-1 ,瀹夊鍗
+http://39.134.65.166/PLTV/88888888/224/3221225531/1.m3u8
+#EXTINF:-1 ,瀹夊鍗
+http://39.135.138.58:18890/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 ,瀹夊窘閾滈櫟鍏叡鍙�
+http://dstpush1.retalltech.com/app/stream2.m3u8
+#EXTINF:-1 ,瀹夊窘閾滈櫟缁煎悎鍙�
+http://dstpush1.retalltech.com/app/stream1.m3u8
+#EXTINF:-1 ,瀹夊悍鍏叡棰戦亾
+http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakggpd.m3u8
+#EXTINF:-1 ,瀹夊悍鏁欒偛棰戦亾
+http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakjypd.m3u8
+#EXTINF:-1 ,瀹夊悍鏂伴椈棰戦亾
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8
+#EXTINF:-1 ,瀹夊悍鏂伴椈棰戦亾
+http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakzhpd.m3u8
+#EXTINF:-1 ,瀹夊畞缁煎悎
+http://tv-live.ynkmit.com/tv/anning.m3u8?txSecret=7528f35fb4b62bd24d55b891899db68f&txTime=632C8680
+#EXTINF:-1 ,瀹夊钩鏂伴椈缁煎悎
+http://shou.city1000.cn/live/apxw.m3u8
+#EXTINF:-1 ,瀹夊簡鐭冲寲鐢佃
+http://183.167.250.225:8081/live/0.m3u8
+#EXTINF:-1 ,瀹夊
+http://111.20.33.93/PLTV/88888893/224/3221226388/index.m3u8
+#EXTINF:-1 ,瀹夊缁煎悎棰戦亾
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226388/1.m3u8
+#EXTINF:-1 ,瀹夐『鏂伴椈棰戦亾
+https://player.juyun.tv/camera/64413134.m3u8
+#EXTINF:-1 ,瀹夐槼鍏叡
+http://live.dxhmt.cn:9080/18625858176/b53f118c3ffc4a5c82b6f14b8301fd17.m3u8
+#EXTINF:-1 ,瀹夐槼鍏叡棰戦亾
+http://zhpull.dxhmt.cn:80/anyang/d21bf91860c443caa34c4797d6b0026e/playlist.m3u8
+#EXTINF:-1 ,瀹夐槼绉戞暀
+http://live.dxhmt.cn:9080/18625858176/f392f86c91c74101b1873bdf7f40b8bc.m3u8
+#EXTINF:-1 ,瀹夐槼绉戞暀棰戦亾
+http://zhpull.dxhmt.cn:80/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
+#EXTINF:-1 ,瀹夐槼鍘挎柊闂荤患鍚�
+http://live.dxhmt.cn:9081/tv/10522-1.m3u8
+#EXTINF:-1 ,瀹夐槼鍘挎柊闂荤患鍚�
+http://tvpull.dxhmt.cn:9081/tv/10522-1.m3u8
+#EXTINF:-1 ,瀹夐槼鏂伴椈缁煎悎
+http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
+#EXTINF:-1 ,瀹夊窞鏂伴椈棰戦亾
+http://live.sctvcloud.com/live/anzhoutv1/playlist.m3u8
