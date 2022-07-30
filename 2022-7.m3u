@@ -5,3 +5,5 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
 http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 #EXTINF:-1 ,CCTV13
 http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 ,CCTV-9HD
+rtmp://ivi.bupt.edu.cn:1935/livetv/cctv9hd
