@@ -5,3 +5,7 @@ http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 #EXTINF:-1 ,CCTV13
 http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 ,CCTV4K(2)
+https://p.ggiptv.com/v/4k.m3u8
+#EXTINF:-1 ,CCTV4K(3)
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
