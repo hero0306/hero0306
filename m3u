@@ -1,111 +1,366 @@
-#EXTM3U
-#EXTINF:-1 ,CCTV1
-http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
-#EXTINF:-1 ,CCTV2
-http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
-#EXTINF:-1 ,CCTV3
-http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
-#EXTINF:-1 ,CCTV4
-http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 ,CCTV4k
-http://open.live-web.timetv.cn/live03/cctv4k.m3u8
-#EXTINF:-1 ,CCTV5
-http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 ,CCTV5+
-http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
-#EXTINF:-1 ,CCTV6
-http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
-#EXTINF:-1 ,CCTV7
-http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
-#EXTINF:-1 ,CCTV8
-http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
-#EXTINF:-1 ,CCTV9
-http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
-#EXTINF:-1 ,CCTV10
-http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
-#EXTINF:-1 ,CCTV11
-http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
-#EXTINF:-1 ,CCTV12
-http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
-#EXTINF:-1 ,CCTV13
-http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 ,CCTV14
-http://39.134.115.163:8080/PLTV/88888910/224/3221225640/index.m3u8
-#EXTINF:-1 ,CCTV15
-http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
-#EXTINF:-1 ,CCTV17
-http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-#EXTINF:-1 ,CGTN Arabic
-http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 ,CGTN Espa帽ol
-http://livees.cgtn.com/500e/prog_index.m3u8
-#EXTINF:-1 ,CGTN France
-http://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 ,CHC鐢靛奖
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 ,CHC鍔ㄤ綔鐢靛奖
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 ,CHC瀹跺涵褰遍櫌
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 ,CNC鑻辨枃
-http://39.134.115.163:8080/PLTV/88888910/224/3221225693/index.m3u8
-#EXTINF:-1 ,CNC涓枃
-http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
-#EXTINF:-1 ,IPTV5+
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226342/1.m3u8
-#EXTINF:-1 ,IPTV6+
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226343/1.m3u8
-#EXTINF:-1 ,IPTV8+
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226344/1.m3u8
-#EXTINF:-1 ,闃垮潩鏂囪壓棰戦亾
-http://ablive.abatv.com.cn:90/live/wypd.m3u8
-#EXTINF:-1 ,闃垮潩缁煎悎棰戦亾
-http://ablive.abatv.com.cn:90/live/zhpd.m3u8
-#EXTINF:-1 ,鐖卞璐墿
-http://tvlive.siqiangame.com/ugotvlive/aijiatv.m3u8?auth_key=1860547259-0-0-77940e9d27746d1ae88f7d31e81191d0
-#EXTINF:-1 ,鐖变笂4K
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
-#EXTINF:-1 ,瀹夊鍗
-http://39.134.65.166/PLTV/88888888/224/3221225531/1.m3u8
-#EXTINF:-1 ,瀹夊鍗
-http://39.135.138.58:18890/PLTV/88888888/224/3221226195/index.m3u8
-#EXTINF:-1 ,瀹夊窘閾滈櫟鍏叡鍙�
-http://dstpush1.retalltech.com/app/stream2.m3u8
-#EXTINF:-1 ,瀹夊窘閾滈櫟缁煎悎鍙�
-http://dstpush1.retalltech.com/app/stream1.m3u8
-#EXTINF:-1 ,瀹夊悍鍏叡棰戦亾
-http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakggpd.m3u8
-#EXTINF:-1 ,瀹夊悍鏁欒偛棰戦亾
-http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakjypd.m3u8
-#EXTINF:-1 ,瀹夊悍鏂伴椈棰戦亾
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8
-#EXTINF:-1 ,瀹夊悍鏂伴椈棰戦亾
-http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakzhpd.m3u8
-#EXTINF:-1 ,瀹夊畞缁煎悎
-http://tv-live.ynkmit.com/tv/anning.m3u8?txSecret=7528f35fb4b62bd24d55b891899db68f&txTime=632C8680
-#EXTINF:-1 ,瀹夊钩鏂伴椈缁煎悎
-http://shou.city1000.cn/live/apxw.m3u8
-#EXTINF:-1 ,瀹夊簡鐭冲寲鐢佃
-http://183.167.250.225:8081/live/0.m3u8
-#EXTINF:-1 ,瀹夊
-http://111.20.33.93/PLTV/88888893/224/3221226388/index.m3u8
-#EXTINF:-1 ,瀹夊缁煎悎棰戦亾
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226388/1.m3u8
-#EXTINF:-1 ,瀹夐『鏂伴椈棰戦亾
-https://player.juyun.tv/camera/64413134.m3u8
-#EXTINF:-1 ,瀹夐槼鍏叡
-http://live.dxhmt.cn:9080/18625858176/b53f118c3ffc4a5c82b6f14b8301fd17.m3u8
-#EXTINF:-1 ,瀹夐槼鍏叡棰戦亾
-http://zhpull.dxhmt.cn:80/anyang/d21bf91860c443caa34c4797d6b0026e/playlist.m3u8
-#EXTINF:-1 ,瀹夐槼绉戞暀
-http://live.dxhmt.cn:9080/18625858176/f392f86c91c74101b1873bdf7f40b8bc.m3u8
-#EXTINF:-1 ,瀹夐槼绉戞暀棰戦亾
-http://zhpull.dxhmt.cn:80/anyang/24edb37167474b17948c6fbaf09890b8/playlist.m3u8
-#EXTINF:-1 ,瀹夐槼鍘挎柊闂荤患鍚�
-http://live.dxhmt.cn:9081/tv/10522-1.m3u8
-#EXTINF:-1 ,瀹夐槼鍘挎柊闂荤患鍚�
-http://tvpull.dxhmt.cn:9081/tv/10522-1.m3u8
-#EXTINF:-1 ,瀹夐槼鏂伴椈缁煎悎
-http://zhpull.dxhmt.cn:80/anyang/7e3b40563af54e2f9f48e2c67c5d9fab/playlist.m3u8
-#EXTINF:-1 ,瀹夊窞鏂伴椈棰戦亾
-http://live.sctvcloud.com/live/anzhoutv1/playlist.m3u8
+2022-08-01 21:02:10.274 T:4090499776  NOTICE: Starting Kodi (18.9 (18.9.0) Git:00ff7594e42e9539912c9bd12c5a6a9d1b9d8d78). Platform: Linux ARM 32-bit
+2022-08-01 21:02:10.274 T:4090499776  NOTICE: Using Release Kodi x32 build
+2022-08-01 21:02:10.275 T:4090499776  NOTICE: Kodi compiled 2021-09-07 by GCC 8.3.0 for Linux ARM 32-bit version 3.14.29 (200221)
+2022-08-01 21:02:10.275 T:4090499776  NOTICE: Running on CoreELEC (official): 9.2.8, kernel: Linux ARM 64-bit version 3.14.29 aarch64
+2022-08-01 21:02:10.275 T:4090499776  NOTICE: FFmpeg version/source: 4.2.4-Kodi
+2022-08-01 21:02:10.275 T:4090499776  NOTICE: Host CPU: Amlogic S912 rev a, 8 cores available
+2022-08-01 21:02:10.275 T:4090499776  NOTICE: ARM Features: Neon enabled
+2022-08-01 21:02:10.275 T:4090499776  NOTICE: special://xbmc/ is mapped to: /usr/share/kodi/
+2022-08-01 21:02:10.275 T:4090499776  NOTICE: special://xbmcbin/ is mapped to: /usr/lib/kodi
+2022-08-01 21:02:10.275 T:4090499776  NOTICE: special://xbmcbinaddons/ is mapped to: /usr/lib/kodi/addons
+2022-08-01 21:02:10.275 T:4090499776  NOTICE: special://masterprofile/ is mapped to: /storage/.kodi/userdata
+2022-08-01 21:02:10.275 T:4090499776  NOTICE: special://envhome/ is mapped to: /storage
+2022-08-01 21:02:10.275 T:4090499776  NOTICE: special://home/ is mapped to: /storage/.kodi
+2022-08-01 21:02:10.275 T:4090499776  NOTICE: special://temp/ is mapped to: /storage/.kodi/temp
+2022-08-01 21:02:10.275 T:4090499776  NOTICE: special://logpath/ is mapped to: /storage/.kodi/temp
+2022-08-01 21:02:10.275 T:4090499776  NOTICE: The executable running is: /usr/lib/kodi/kodi.bin
+2022-08-01 21:02:10.275 T:4090499776  NOTICE: Local hostname: CoreELEC
+2022-08-01 21:02:10.275 T:4090499776  NOTICE: Log File is located: /storage/.kodi/temp/kodi.log
+2022-08-01 21:02:10.275 T:4090499776  NOTICE: -----------------------------------------------------------------------
+2022-08-01 21:02:10.287 T:4090499776    INFO: loading settings
+2022-08-01 21:02:10.290 T:4090499776  NOTICE: special://profile/ is mapped to: special://masterprofile/
+2022-08-01 21:02:10.320 T:4090499776   DEBUG: CSkinSettings: no <skinsettings> tag found
+2022-08-01 21:02:10.330 T:4090499776  NOTICE: Loaded settings file from special://xbmc/system/advancedsettings.xml
+2022-08-01 21:02:10.330 T:4090499776  NOTICE: Contents of special://xbmc/system/advancedsettings.xml are...
+                                            <?xml version="1.0" encoding="utf-8" ?>
+                                            <advancedsettings>
+                                              <cputempcommand>/usr/bin/cputemp</cputempcommand>
+                                              <gputempcommand>/usr/bin/gputemp</gputempcommand>
+                                              <showexitbutton>false</showexitbutton>
+                                              <remotedelay>1</remotedelay>
+                                              <samba>
+                                                <clienttimeout>30</clienttimeout>
+                                              </samba>
+                                              <splash>false</splash>
+                                            </advancedsettings>
+2022-08-01 21:02:10.331 T:4090499776 WARNING: CSettingsManager: missing version attribute
+2022-08-01 21:02:10.332 T:4090499776  NOTICE: No settings file to load (special://masterprofile/advancedsettings.xml)
+2022-08-01 21:02:10.332 T:4090499776  NOTICE: Default Video Player: VideoPlayer
+2022-08-01 21:02:10.332 T:4090499776  NOTICE: Default Audio Player: paplayer
+2022-08-01 21:02:10.333 T:4090499776  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+2022-08-01 21:02:10.333 T:4090499776  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+2022-08-01 21:02:10.333 T:4090499776  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+2022-08-01 21:02:10.335 T:4090499776  NOTICE: WakeOnAccess - Load settings :
+2022-08-01 21:02:10.336 T:4090499776  NOTICE: WakeOnAccess - Enabled:TRUE
+2022-08-01 21:02:10.336 T:4090499776  NOTICE:   -Network init timeout : [20] sec
+2022-08-01 21:02:10.336 T:4090499776  NOTICE:   -Network settle time  : [500] ms
+2022-08-01 21:02:10.336 T:4090499776  NOTICE:   Registering wakeup entry:
+2022-08-01 21:02:10.336 T:4090499776  NOTICE:     HostName        : 192.168.1.1
+2022-08-01 21:02:10.336 T:4090499776  NOTICE:     MacAddress      : 7C:10:C9:B8:28:25
+2022-08-01 21:02:10.336 T:4090499776  NOTICE:     PingPort        : 0
+2022-08-01 21:02:10.336 T:4090499776  NOTICE:     PingMode        : 0
+2022-08-01 21:02:10.336 T:4090499776  NOTICE:     Timeout         : 300 (sec)
+2022-08-01 21:02:10.336 T:4090499776  NOTICE:     WaitForOnline   : 40 (sec)
+2022-08-01 21:02:10.336 T:4090499776  NOTICE:     WaitForOnlineEx : 40 (sec)
+2022-08-01 21:02:10.336 T:4090499776  NOTICE:     WaitForServices : 5 (sec)
+2022-08-01 21:02:10.336 T:4090499776  NOTICE:   Registering wakeup entry:
+2022-08-01 21:02:10.336 T:4090499776  NOTICE:     HostName        : 192.168.1.201
+2022-08-01 21:02:10.336 T:4090499776  NOTICE:     MacAddress      : 98:28:A6:0B:44:F6
+2022-08-01 21:02:10.336 T:4090499776  NOTICE:     PingPort        : 0
+2022-08-01 21:02:10.336 T:4090499776  NOTICE:     PingMode        : 0
+2022-08-01 21:02:10.336 T:4090499776  NOTICE:     Timeout         : 300 (sec)
+2022-08-01 21:02:10.336 T:4090499776  NOTICE:     WaitForOnline   : 40 (sec)
+2022-08-01 21:02:10.336 T:4090499776  NOTICE:     WaitForOnlineEx : 40 (sec)
+2022-08-01 21:02:10.337 T:4090499776  NOTICE:     WaitForServices : 5 (sec)
+2022-08-01 21:02:10.337 T:4090499776  NOTICE:   Registering wakeup entry:
+2022-08-01 21:02:10.337 T:4090499776  NOTICE:     HostName        : 192.168.1.118
+2022-08-01 21:02:10.337 T:4090499776  NOTICE:     MacAddress      : 54:09:10:27:39:F3
+2022-08-01 21:02:10.337 T:4090499776  NOTICE:     PingPort        : 0
+2022-08-01 21:02:10.337 T:4090499776  NOTICE:     PingMode        : 0
+2022-08-01 21:02:10.337 T:4090499776  NOTICE:     Timeout         : 300 (sec)
+2022-08-01 21:02:10.337 T:4090499776  NOTICE:     WaitForOnline   : 40 (sec)
+2022-08-01 21:02:10.337 T:4090499776  NOTICE:     WaitForOnlineEx : 40 (sec)
+2022-08-01 21:02:10.337 T:4090499776  NOTICE:     WaitForServices : 5 (sec)
+2022-08-01 21:02:10.541 T:4090499776  NOTICE: PulseAudio: Server found running - will try to use Pulse
+2022-08-01 21:02:10.560 T:4090499776  NOTICE: Running database version Addons27
+2022-08-01 21:02:10.778 T:4090499776  NOTICE: ADDON: audioencoder.flac v2.0.6.1 installed
+2022-08-01 21:02:10.778 T:4090499776  NOTICE: ADDON: audioencoder.kodi.builtin.aac v1.0.0 installed
+2022-08-01 21:02:10.778 T:4090499776  NOTICE: ADDON: audioencoder.kodi.builtin.wma v1.0.0 installed
+2022-08-01 21:02:10.778 T:4090499776  NOTICE: ADDON: audioencoder.lame v2.0.5.1 installed
+2022-08-01 21:02:10.778 T:4090499776  NOTICE: ADDON: audioencoder.vorbis v2.0.4.1 installed
+2022-08-01 21:02:10.778 T:4090499776  NOTICE: ADDON: audioencoder.wav v2.0.3.1 installed
+2022-08-01 21:02:10.778 T:4090499776  NOTICE: ADDON: context.extendedinfo.ratemedia v1.0.2 installed
+2022-08-01 21:02:10.778 T:4090499776  NOTICE: ADDON: docker.linuxserver.updater v2.0.1 installed
+2022-08-01 21:02:10.778 T:4090499776  NOTICE: ADDON: driver.dvb.crazycat_aml v9.2.0 installed
+2022-08-01 21:02:10.778 T:4090499776  NOTICE: ADDON: driver.dvb.dvb-latest v9.2.0 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: game.controller.default v1.0.31 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: game.controller.snes v1.0.30 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: game.libretro v1.1.1.1 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: imagedecoder.heif v1.2.0.1 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: imagedecoder.mpo v1.1.2.1 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: imagedecoder.raw v2.1.2.1 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: inputstream.adaptive v2.4.8.1 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: inputstream.rtmp v2.0.9.2 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: kodi.binary.global.audioengine v1.0.1 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: kodi.binary.global.filesystem v1.0.2 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: kodi.binary.global.general v1.0.3 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: kodi.binary.global.gui v5.12.0 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: kodi.binary.global.main v1.0.14 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: kodi.binary.global.network v1.0.0 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: kodi.binary.instance.audiodecoder v2.0.0 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: kodi.binary.instance.audioencoder v2.0.0 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: kodi.binary.instance.game v1.1.0 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: kodi.binary.instance.imagedecoder v2.0.0 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: kodi.binary.instance.inputstream v2.0.8 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: kodi.binary.instance.peripheral v1.3.7 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: kodi.binary.instance.pvr v5.10.3 installed
+2022-08-01 21:02:10.779 T:4090499776  NOTICE: ADDON: kodi.binary.instance.screensaver v2.0.0 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: kodi.binary.instance.vfs v2.0.0 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: kodi.binary.instance.videocodec v1.0.1 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: kodi.binary.instance.visualization v2.0.1 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: kodi.resource v1.0.0 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: metadata.album.universal v3.1.9 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: metadata.artists.universal v4.3.10 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: metadata.common.allmusic.com v3.2.2 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: metadata.common.fanart.tv v3.6.4 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: metadata.common.imdb.com v3.2.7 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: metadata.common.musicbrainz.org v2.2.4 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: metadata.common.theaudiodb.com v2.0.3 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: metadata.common.themoviedb.org v3.2.18 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: metadata.douban.com v1.1.7 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: metadata.doubantv.com v1.2.3 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: metadata.local v1.0.0 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: metadata.themoviedb.org v5.2.6 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: metadata.tvshows.themoviedb.org v3.5.14 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: os.libreelec.tv v9.2 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: os.openelec.tv v9.2 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: peripheral.joystick v1.4.9 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: plugin.audio.ilovemusic v2.3.0 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: plugin.googledrive v1.4.10 installed
+2022-08-01 21:02:10.780 T:4090499776  NOTICE: ADDON: plugin.library.node.editor v1.0.11 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: plugin.video.bilibili v0.5.8 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: plugin.video.crackle v2020.10.7 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: plugin.video.youtube v6.8.18 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: pvr.iptvsimple v3.10.1.1 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: repository.coreelec v9.2 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: repository.kodinerds v7.0.1.2 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: repository.linuxserver.docker v9.0.102.102 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: repository.xbmc-addons-chinese v2.0.0 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: repository.xbmc.org v9.9.0 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: resource.images.classificationicons.colour v0.0.3 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: resource.images.studios.white v0.0.30 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: resource.images.weathericons.default v1.1.8 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: resource.language.en_gb v2.0.1 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: resource.language.zh_cn v9.0.16 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: resource.uisounds.aeonmq6 v1.0.0 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: resource.uisounds.amber v1.0.0 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: resource.uisounds.androidtv v1.0.0 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: resource.uisounds.appletv v0.0.2 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: resource.uisounds.apptv v1.0.4 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: resource.uisounds.embuary v0.0.4 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: resource.uisounds.kodi v1.0.0 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: resource.uisounds.nebula v1.0.1 installed
+2022-08-01 21:02:10.781 T:4090499776  NOTICE: ADDON: resource.uisounds.titan.classic v1.0.0 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: resource.uisounds.titan.modern v1.0.0 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: resource.uisounds.transparency v0.0.1 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: resource.uisounds.xperience1080 v1.0.0 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: screensaver.google.earth v1.0.5 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: screensaver.videosaver v1.0.4 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: screensaver.xbmc.builtin.black v1.0.33 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: screensaver.xbmc.builtin.dim v1.0.59 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: script.amlogic.displayinfo v9.2.100 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: script.cu.lrclyrics v5.8.3 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: script.extendedinfo v5.6.0 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: script.game.netwalk v0.0.6 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: script.keymap v1.1.3 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: script.kodi.loguploader v0.6.0 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: script.logviewer v2.1.3+gotham.1 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: script.module.actionhandler v1.1.0 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: script.module.addon.signals v0.0.6 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: script.module.autocompletion v1.1.2 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: script.module.backports.functools_lru_cache v1.6.1 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: script.module.beautifulsoup v3.2.1 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: script.module.beautifulsoup4 v4.9.3 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: script.module.bottle v0.12.17 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: script.module.certifi v2021.10.8 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: script.module.chardet v4.0.0 installed
+2022-08-01 21:02:10.782 T:4090499776  NOTICE: ADDON: script.module.clouddrive.common v1.3.9 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.dateutil v2.8.1 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.defusedxml v0.6.0 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.googleapi v1.6.4 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.html5lib v0.999.0 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.httplib2 v0.10.3 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.idna v2.10.0 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.inputstreamhelper v0.5.10 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.keyboard.chinese v2.0.5 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.kodi-six v0.1.3 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.kodi65 v1.2.1 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.oauth2client v4.1.3 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.pil v1.1.7 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.pycryptodome v3.4.3 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.pylast v1.8.0 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.pyqrcode v0.0.2 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.requests v2.27.1 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.routing v0.2.3 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.simplecache v1.0.20 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.simplejson v3.16.1 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.six v1.15.0 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.soupsieve v1.9.6+leia.1 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.twitter v1.17.1 installed
+2022-08-01 21:02:10.783 T:4090499776  NOTICE: ADDON: script.module.unidecode v1.1.1 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: script.module.uritemplate v0.6.0 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: script.module.urllib3 v1.26.9 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: script.module.xbmcswift2 v13.0.4 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: script.module.yaml v4.1 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: script.module.youtube.dl v2022.05.23 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: script.openweathermap.maps v0.3.1 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: script.program.driverselect v0.1.6.1 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: script.speedtester v1.1.2 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: script.xbmcbackup v1.1.3 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: service.aml-vnc v9.2.103 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: service.autosubs v1.0.0 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: service.coreelec.settings v9.0.0 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: service.minidlna v9.2.101 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: service.subtitles.makedie v1.1.0 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: service.subtitles.opensubtitles v5.0.16 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: service.subtitles.subhd v1.0.23 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: service.system.docker v9.2.127 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: service.upnext v1.1.5 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: skin.estuary v2.0.27 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: tools.ffmpeg-tools v9.2.111 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: tools.jre.zulu v9.2.100 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: vfs.libarchive v1.0.7.1 installed
+2022-08-01 21:02:10.784 T:4090499776  NOTICE: ADDON: vfs.rar v2.3.2.1 installed
+2022-08-01 21:02:10.785 T:4090499776  NOTICE: ADDON: vfs.sacd v1.0.4.1 installed
+2022-08-01 21:02:10.785 T:4090499776  NOTICE: ADDON: vfs.sftp v1.0.6.1 installed
+2022-08-01 21:02:10.785 T:4090499776  NOTICE: ADDON: virtual.network-tools v9.2.104 installed
+2022-08-01 21:02:10.785 T:4090499776  NOTICE: ADDON: virtual.system-tools v9.2.111 installed
+2022-08-01 21:02:10.785 T:4090499776  NOTICE: ADDON: visualization.goom v2.2.3.1 installed
+2022-08-01 21:02:10.785 T:4090499776  NOTICE: ADDON: visualization.spectrum v3.0.4.1 installed
+2022-08-01 21:02:10.785 T:4090499776  NOTICE: ADDON: visualization.waveform v3.1.2.1 installed
+2022-08-01 21:02:10.785 T:4090499776  NOTICE: ADDON: weather.weatherbit.io v0.0.20 installed
+2022-08-01 21:02:10.785 T:4090499776  NOTICE: ADDON: webinterface.awxi v0.7.6 installed
+2022-08-01 21:02:10.785 T:4090499776  NOTICE: ADDON: webinterface.default v18.x-2.4.6 installed
+2022-08-01 21:02:10.785 T:4090499776  NOTICE: ADDON: webinterface.tex v1.2.0 installed
+2022-08-01 21:02:10.785 T:4090499776  NOTICE: ADDON: xbmc.addon v18.9 installed
+2022-08-01 21:02:10.785 T:4090499776  NOTICE: ADDON: xbmc.core v0.1.0 installed
+2022-08-01 21:02:10.785 T:4090499776  NOTICE: ADDON: xbmc.gui v5.14.0 installed
+2022-08-01 21:02:10.785 T:4090499776  NOTICE: ADDON: xbmc.json v10.3.0 installed
+2022-08-01 21:02:10.785 T:4090499776  NOTICE: ADDON: xbmc.metadata v2.1.0 installed
+2022-08-01 21:02:10.785 T:4090499776  NOTICE: ADDON: xbmc.python v2.26.0 installed
+2022-08-01 21:02:10.785 T:4090499776  NOTICE: ADDON: xbmc.webinterface v1.0.0 installed
+2022-08-01 21:02:10.935 T:4090499776   ERROR: DBus error: org.freedesktop.DBus.Error.ServiceUnknown - The name org.freedesktop.UPower was not provided by any .service files
+2022-08-01 21:02:11.011 T:4054840128 WARNING: Pulseaudio module module-allow-passthrough not loaded - opening PT devices might fail
+2022-08-01 21:02:11.012 T:4054840128  NOTICE: Found 2 Lists of Devices
+2022-08-01 21:02:11.012 T:4054840128  NOTICE: Enumerated ALSA devices:
+2022-08-01 21:02:11.012 T:4054840128  NOTICE:     Device 1
+2022-08-01 21:02:11.012 T:4054840128  NOTICE:         m_deviceName      : default
+2022-08-01 21:02:11.012 T:4054840128  NOTICE:         m_displayName     : Default (AML-M8AUDIO Analog)
+2022-08-01 21:02:11.012 T:4054840128  NOTICE:         m_displayNameExtra: PCM
+2022-08-01 21:02:11.012 T:4054840128  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2022-08-01 21:02:11.012 T:4054840128  NOTICE:         m_channels        : FL, FR, UNKNOWN1, LFE, BL, BR, FC, BC, BLOC, BROC
+2022-08-01 21:02:11.012 T:4054840128  NOTICE:         m_sampleRates     : 32000,44100,48000,88200,96000,176400,192000
+2022-08-01 21:02:11.013 T:4054840128  NOTICE:         m_dataFormats     : AE_FMT_S32NE,AE_FMT_S16NE,AE_FMT_S16LE
+2022-08-01 21:02:11.013 T:4054840128  NOTICE:         m_streamTypes     : No passthrough capabilities
+2022-08-01 21:02:11.013 T:4054840128  NOTICE:     Device 2
+2022-08-01 21:02:11.013 T:4054840128  NOTICE:         m_deviceName      : sysdefault:CARD=AMLM8AUDIO
+2022-08-01 21:02:11.013 T:4054840128  NOTICE:         m_displayName     : AML-M8AUDIO
+2022-08-01 21:02:11.013 T:4054840128  NOTICE:         m_displayNameExtra: PCM
+2022-08-01 21:02:11.013 T:4054840128  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2022-08-01 21:02:11.013 T:4054840128  NOTICE:         m_channels        : FL, FR, UNKNOWN1, LFE, BL, BR, FC, BC, BLOC, BROC
+2022-08-01 21:02:11.013 T:4054840128  NOTICE:         m_sampleRates     : 32000,44100,48000,88200,96000,176400,192000
+2022-08-01 21:02:11.013 T:4054840128  NOTICE:         m_dataFormats     : AE_FMT_S32NE,AE_FMT_S16NE,AE_FMT_S16LE
+2022-08-01 21:02:11.013 T:4054840128  NOTICE:         m_streamTypes     : No passthrough capabilities
+2022-08-01 21:02:11.013 T:4054840128  NOTICE:     Device 3
+2022-08-01 21:02:11.013 T:4054840128  NOTICE:         m_deviceName      : hdmi:CARD=AMLM8AUDIO,DEV=0
+2022-08-01 21:02:11.013 T:4054840128  NOTICE:         m_displayName     : AML-M8AUDIO
+2022-08-01 21:02:11.013 T:4054840128  NOTICE:         m_displayNameExtra: HDMI
+2022-08-01 21:02:11.013 T:4054840128  NOTICE:         m_deviceType      : AE_DEVTYPE_HDMI
+2022-08-01 21:02:11.013 T:4054840128  NOTICE:         m_channels        : FL, FR, BL, BR, FC, LFE, SL, SR
+2022-08-01 21:02:11.014 T:4054840128  NOTICE:         m_sampleRates     : 32000,44100,48000,88200,96000,176400,192000
+2022-08-01 21:02:11.014 T:4054840128  NOTICE:         m_dataFormats     : AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_RAW
+2022-08-01 21:02:11.014 T:4054840128  NOTICE:         m_streamTypes     : STREAM_TYPE_AC3,STREAM_TYPE_DTSHD,STREAM_TYPE_DTSHD_MA,STREAM_TYPE_DTSHD_CORE,STREAM_TYPE_DTS_1024,STREAM_TYPE_DTS_2048,STREAM_TYPE_DTS_512,STREAM_TYPE_EAC3,STREAM_TYPE_TRUEHD
+2022-08-01 21:02:11.014 T:4054840128  NOTICE: Enumerated PULSE devices:
+2022-08-01 21:02:11.014 T:4054840128  NOTICE:     Device 1
+2022-08-01 21:02:11.014 T:4054840128  NOTICE:         m_deviceName      : Default
+2022-08-01 21:02:11.014 T:4054840128  NOTICE:         m_displayName     : Default
+2022-08-01 21:02:11.014 T:4054840128  NOTICE:         m_displayNameExtra: Bluetooth Audio (PULSEAUDIO)
+2022-08-01 21:02:11.014 T:4054840128  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+2022-08-01 21:02:11.014 T:4054840128  NOTICE:         m_channels        : FL, FR
+2022-08-01 21:02:11.014 T:4054840128  NOTICE:         m_sampleRates     : 5512,8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,176400,192000,384000
+2022-08-01 21:02:11.014 T:4054840128  NOTICE:         m_dataFormats     : AE_FMT_U8,AE_FMT_S16NE,AE_FMT_S24NE3,AE_FMT_S24NE4,AE_FMT_S32NE,AE_FMT_FLOAT
+2022-08-01 21:02:11.014 T:4054840128  NOTICE:         m_streamTypes     : No passthrough capabilities
+2022-08-01 21:02:11.113 T:4090499776   ERROR: GetString: error reading /storage/.kodi/userdata/disp_cap
+2022-08-01 21:02:11.114 T:4090499776   ERROR: GetString: error reading /sys/class/amhdmitx/amhdmitx0/vesa_cap
+2022-08-01 21:02:11.114 T:4090499776   ERROR: GetString: error reading /sys/class/amhdmitx/amhdmitx0/custom_mode
+2022-08-01 21:02:11.114 T:4090499776   ERROR: GetString: error reading /storage/.kodi/userdata/disp_add
+2022-08-01 21:02:11.114 T:4090499776  NOTICE: Found resolution 1280 x 720 with 1280 x 720 @ 60.000000 Hz
+2022-08-01 21:02:11.114 T:4090499776  NOTICE: Found resolution 1280 x 720 with 1280 x 720 @ 59.940060 Hz
+2022-08-01 21:02:11.268 T:4090499776  NOTICE: EGL_VERSION = 1.4 Android META-EGL
+2022-08-01 21:02:11.269 T:4090499776  NOTICE: EGL_VENDOR = Android
+2022-08-01 21:02:11.269 T:4090499776  NOTICE: EGL_EXTENSIONS = EGL_KHR_get_all_proc_addresses EGL_ANDROID_presentation_time EGL_KHR_swap_buffers_with_damage EGL_ANDROID_create_native_client_buffer EGL_ANDROID_front_buffer_auto_refresh EGL_KHR_image EGL_KHR_image_base EGL_KHR_gl_texture_2D_image EGL_KHR_gl_texture_cubemap_image EGL_KHR_gl_renderbuffer_image EGL_KHR_fence_sync EGL_KHR_create_context EGL_KHR_config_attribs EGL_KHR_surfaceless_context EGL_EXT_create_context_robustness EGL_ANDROID_image_native_buffer EGL_KHR_wait_sync EGL_ANDROID_recordable EGL_KHR_partial_update EGL_KHR_mutable_render_buffer EGL_EXT_protected_content
+2022-08-01 21:02:11.269 T:4090499776  NOTICE: EGL_CLIENT_EXTENSIONS = NULL
+2022-08-01 21:02:11.278 T:4090499776  NOTICE: Checking resolution 16
+2022-08-01 21:02:11.278 T:4090499776   ERROR: GetString: error reading /sys/class/amhdmitx/amhdmitx0/custom_mode
+2022-08-01 21:02:11.527 T:4090499776  NOTICE: GL_VENDOR = ARM
+2022-08-01 21:02:11.527 T:4090499776  NOTICE: GL_RENDERER = Mali-T820
+2022-08-01 21:02:11.527 T:4090499776  NOTICE: GL_VERSION = OpenGL ES 3.2 r16p0-00rel0.0ef039f.daee5ef168801bd2d9621050874e7df1
+2022-08-01 21:02:11.527 T:4090499776  NOTICE: GL_SHADING_LANGUAGE_VERSION = OpenGL ES GLSL ES 3.20
+2022-08-01 21:02:11.528 T:4090499776  NOTICE: GL_EXTENSIONS = GL_EXT_debug_marker GL_ARM_rgba8 GL_ARM_mali_shader_binary GL_OES_depth24 GL_OES_depth_texture GL_OES_depth_texture_cube_map GL_OES_packed_depth_stencil GL_OES_rgb8_rgba8 GL_EXT_read_format_bgra GL_OES_compressed_paletted_texture GL_OES_compressed_ETC1_RGB8_texture GL_OES_standard_derivatives GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_EGL_image_external_essl3 GL_OES_EGL_sync GL_OES_texture_npot GL_OES_vertex_half_float GL_OES_required_internalformat GL_OES_vertex_array_object GL_OES_mapbuffer GL_EXT_texture_format_BGRA8888 GL_EXT_texture_rg GL_EXT_texture_type_2_10_10_10_REV GL_OES_fbo_render_mipmap GL_OES_element_index_uint GL_EXT_shadow_samplers GL_OES_texture_compression_astc GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_hdr GL_KHR_texture_compression_astc_sliced_3d GL_KHR_debug GL_EXT_occlusion_query_boolean GL_EXT_disjoint_timer_query GL_EXT_blend_minmax GL_EXT_discard_framebuffer GL_OES_get_program_binary GL_OES_texture_3D GL_EXT_texture_storage GL_EXT_multisampled_render_to_texture GL_OES_surfaceless_context GL_OES_texture_stencil8 GL_EXT_shader_pixel_local_storage GL_ARM_shader_framebuffer_fetch GL_ARM_shader_framebuffer_fetch_depth_stencil GL_ARM_mali_program_binary GL_EXT_sRGB GL_EXT_sRGB_write_control GL_EXT_texture_sRGB_decode GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OES_texture_storage_multisample_2d_array GL_OES_shader_image_atomic GL_EXT_robustness GL_EXT_draw_buffers_indexed GL_OES_draw_buffers_indexed GL_EXT_texture_border_clamp GL_OES_texture_border_clamp GL_EXT_texture_cube_map_array GL_OES_texture_cube_map_array GL_OES_sample_variables GL_OES_sample_shading GL_OES_shader_multisample_interpolation GL_EXT_shader_io_blocks GL_OES_shader_io_blocks GL_EXT_tessellation_shader GL_OES_tessellation_shader GL_EXT_primitive_bounding_box GL_OES_primitive_bounding_box GL_EXT_geometry_shader GL_OES_geometry_shader GL_ANDROID_extension_pack_es31a GL_EXT_gpu_shader5 GL_OES_gpu_shader5 GL_EXT_texture_buffer GL_OES_texture_buffer GL_EXT_copy_image GL_OES_copy_image GL_EXT_color_buffer_half_float GL_EXT_color_buffer_float GL_EXT_YUV_target GL_OVR_multiview GL_OVR_multiview2 GL_OVR_multiview_multisampled_render_to_texture GL_KHR_robustness GL_KHR_robust_buffer_access_behavior GL_EXT_draw_elements_base_vertex GL_OES_draw_elements_base_vertex GL_EXT_protected_textures
+2022-08-01 21:02:11.926 T:4090499776   ERROR: GetString: error reading /sys/class/amhdmitx/amhdmitx0/custom_mode
+2022-08-01 21:02:12.535 T:4090499776   ERROR: /storage/.kodi/addons/metadata.doubantv.com/resources/language/Chinese (Simple)/strings.xml Doesn't contain <strings>
+2022-08-01 21:02:12.536 T:4090499776   ERROR: /storage/.kodi/addons/metadata.doubantv.com/resources/language/English/strings.xml Doesn't contain <strings>
+2022-08-01 21:02:12.738 T:3899650880  NOTICE: Running database version Addons27
+2022-08-01 21:02:12.741 T:3899650880  NOTICE: Running database version ViewModes6
+2022-08-01 21:02:12.759 T:3899650880  NOTICE: Running database version Textures13
+2022-08-01 21:02:12.790 T:3899650880  NOTICE: Running database version MyMusic72
+2022-08-01 21:02:12.807 T:3899650880  NOTICE: Running database version MyVideos116
+2022-08-01 21:02:12.831 T:3899650880  NOTICE: Running database version TV32
+2022-08-01 21:02:12.835 T:3899650880  NOTICE: Running database version Epg12
+2022-08-01 21:02:12.836 T:4090499776  NOTICE: start dvd mediatype detection
+2022-08-01 21:02:12.976 T:4090499776  NOTICE:   load skin from: /usr/share/kodi/addons/skin.estuary (version: 2.0.27)
+2022-08-01 21:02:14.261 T:4090499776 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+2022-08-01 21:02:14.346 T:4090499776  NOTICE: Register - new keyboard device registered on application->keyboard: 键盘 (0000:0000)
+2022-08-01 21:02:14.347 T:4090499776  NOTICE: Register - new mouse device registered on application->mouse: 鼠标 (0000:0000)
+2022-08-01 21:02:14.503 T:4090499776  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+2022-08-01 21:02:14.504 T:4090499776  NOTICE: Loaded playercorefactory configuration
+2022-08-01 21:02:14.506 T:4090499776  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+2022-08-01 21:02:14.506 T:4090499776  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+2022-08-01 21:02:14.558 T:3844764480  NOTICE: Register - new cec device registered on cec->AOCEC: CEC Adapter (0000:0000)
+2022-08-01 21:02:14.623 T:4090499776  NOTICE: initialize done
+2022-08-01 21:02:14.624 T:4090499776  NOTICE: Running the application...
+2022-08-01 21:02:14.632 T:4090499776  NOTICE: starting zeroconf publishing
+2022-08-01 21:02:14.633 T:4090499776  NOTICE: CWebServer[8080]: Started
+2022-08-01 21:02:14.633 T:4090499776  NOTICE: starting upnp client
+2022-08-01 21:02:14.636 T:4090499776  NOTICE: starting upnp server
+2022-08-01 21:02:14.642 T:4090499776  NOTICE: starting upnp controller
+2022-08-01 21:02:14.642 T:4090499776  NOTICE: starting upnp renderer
+2022-08-01 21:02:14.651 T:3537638208  NOTICE: ES: Starting UDP Event server on port 9777
+2022-08-01 21:02:14.651 T:3537638208  NOTICE: UDP: Listening on port 9777 (ipv6 : true)
+2022-08-01 21:02:14.841 T:3882025792  NOTICE: WakeOnAccess [192.168.1.1] trigged by accessing : smb://192.168.1.1/folder.jpg
+2022-08-01 21:02:14.850 T:3882025792  NOTICE: WakeOnAccess success exit, server already running
+2022-08-01 21:02:15.894 T:3899650880  NOTICE: AddOnLog: PVR IPTV Simple Client: LoadPlayList PlayList Loaded - 936 (ms)
+2022-08-01 21:02:15.895 T:3899650880  NOTICE: AddOnLog: PVR IPTV Simple Client: Loaded 8 channels.
+2022-08-01 21:02:15.895 T:3899650880  NOTICE: PVR Manager: Starting
+2022-08-01 21:02:15.923 T:3909808960  NOTICE: PVR Manager: Started
+2022-08-01 21:02:15.923 T:3899650880  NOTICE: EPG thread started
+2022-08-01 21:02:16.924 T:3520852800  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG file path is not configured. EPG not loaded.
+2022-08-01 21:02:20.422 T:3673084736  NOTICE: [service.upnext] UpNextMonitor -> Service started
+2022-08-01 21:02:22.331 T:3394212672  NOTICE: [script.module.clouddrive.common][service-source--900754624]: Service 'source' started in port 8585
+2022-08-01 21:02:22.340 T:3377427264   ERROR: CAddon[plugin.googledrive]: failed to load addon settings from special://profile/addon_data/plugin.googledrive/settings.xml
+2022-08-01 21:02:22.346 T:3369034560  NOTICE: [plugin.googledrive][service-export--925932736]: Service 'export' started.
+2022-08-01 21:02:22.351 T:3360641856  NOTICE: [plugin.googledrive][service-player--934325440]: Service 'player' started.
+2022-08-01 21:02:22.353 T:3385819968  NOTICE: [plugin.googledrive][service-download--909147328]: Service 'download' started in port 55357
+2022-08-01 21:02:22.361 T:3377427264  NOTICE: [plugin.googledrive][service-source--917540032]: Service 'source' started in port 8587
+2022-08-01 21:03:45.271 T:4090499776  NOTICE: VideoPlayer::OpenFile: http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+2022-08-01 21:03:45.472 T:3873633088  NOTICE: Creating InputStream
+2022-08-01 21:03:45.506 T:4090499776  NOTICE: VideoPlayer::OpenFile: http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+2022-08-01 21:03:45.670 T:3873633088  NOTICE: Creating Demuxer
+2022-08-01 21:03:47.304 T:3873633088  NOTICE: Opening stream: 0 source: 256
+2022-08-01 21:03:47.304 T:3873633088  NOTICE: Finding audio codec for: 86018
+2022-08-01 21:03:47.306 T:3873633088  NOTICE: CDVDAudioCodecFFmpeg::Open() Successful opened audio decoder aac
+2022-08-01 21:03:47.306 T:3873633088  NOTICE: Creating audio thread
+2022-08-01 21:03:47.307 T:3437130560  NOTICE: running thread: CVideoPlayerAudio::Process()
+2022-08-01 21:03:47.307 T:3873633088 WARNING: CDVDMessageQueue(video)::Put MSGQ_NOT_INITIALIZED
+2022-08-01 21:03:48.300 T:4090499776 WARNING: Previous line repeats 1 times.
+2022-08-01 21:03:48.301 T:4090499776  NOTICE: Samba is idle. Closing the remaining connections
+2022-08-01 21:03:48.309 T:3873633088  NOTICE: Creating InputStream
+2022-08-01 21:03:48.449 T:3873633088  NOTICE: Creating Demuxer
+2022-08-01 21:03:49.077 T:3873633088  NOTICE: Opening stream: 0 source: 256
+2022-08-01 21:03:49.077 T:3873633088  NOTICE: Finding audio codec for: 86018
+2022-08-01 21:03:49.080 T:3873633088  NOTICE: CDVDAudioCodecFFmpeg::Open() Successful opened audio decoder aac
+2022-08-01 21:03:49.080 T:3873633088  NOTICE: CDVDDemuxFFmpeg::Read() stream change
+2022-08-01 21:03:49.081 T:3873633088  NOTICE: Opening stream: 0 source: 256
+2022-08-01 21:03:49.085 T:3437130560  NOTICE: Creating audio stream (codec id: 86018, channels: 2, sample rate: 48000, no pass-through)
+2022-08-01 21:03:49.122 T:3873633088 WARNING: CDVDMessageQueue(video)::Put MSGQ_NOT_INITIALIZED
+2022-08-01 21:03:49.481 T:4090499776   ERROR: CBinaryAddonManager::GetInstalledAddonInfo: Requested addon '' unknown as binary
