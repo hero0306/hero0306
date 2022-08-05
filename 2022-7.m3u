@@ -21,7 +21,7 @@ http://39.136.48.10:8089/PLTV/88888888/224/3221226328/index.m3u8
 https://epg.pm/stream/7ec5812ad02ffc44d84faa290d9808df74437241059d55ed5b93a315aaf4752f.m3u8
 #EXTINF:-1 ,北京IPTV4K(2)
 http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
-#EXTINF:-1 ,AsiaFM HD
-https://hls.rastream.com/asiafm-star.web.hls/playlist.m3u8?awparams=companionads%3Afalse%3Btags%3Aradioactive%3Bstationid%3Aasiafm-star&playerid=%E4%BA%9E%E6%B4%B2%E5%BB%A3%E6%92%AD%E5%AE%B6%E6%97%8F%20Asia%20Radio%20Family_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2NTk2ODYzMzksImV4cCI6MTY1OTc3MjczOX0.t047i4zhhsQHsjUMj5XMJJeMx2AvApg_fW-FdkWCZqQ&lan=%5B%22zh%22%5D&setLanguage=true
+#EXTINF:-1 ,亞洲衛星流行音樂台
+https://hls.rastream.com/asiafm-star.web.hls/playlist.m3u8?listeningSessionID=62aa0cb1c3c36cfe_4392416_hTwHxzOd_MTAzLjIxLjgxLjM6ODA!_0000005w7Zp&downloadSessionID=0&awparams=companionads:true;tags:radioactive;stationid:asiafm-star&playerid=亞洲廣播家族 Asia Radio Family_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE2NTk3MDM5MDMsImV4cCI6MTY1OTc5MDMwM30.HfssUaymYxaP78f4cL4_E1geV-pNuIMpkEVG-I97ZFk&lan=["zh"]&setLanguage=true
 #EXTINF:-1 ,好家庭聯播網-古典音樂台
 http://onair.family977.com.tw:8000/live.mp3
