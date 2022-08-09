@@ -4,5 +4,8 @@ http://asiafm.hk:8000/asiafm
 #EXTINF:-1 ,AsiaFM 亚洲经典台
 http://goldfm.cn:8000/goldfm
 #EXTINF:-1 ,AsiaFM 亚洲天空台
+http://funradio.cn:8000/funradio
+#EXTINF:-1 ,AsiaFM HD
+http://asiafm.hk:8000/asiahd
 #EXTINF:-1 ,好家庭聯播網-古典音樂台
 http://onair.family977.com.tw:8000/live.mp3
