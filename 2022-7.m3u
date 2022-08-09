@@ -4,20 +4,5 @@ http://asiafm.hk:8000/asiafm
 #EXTINF:-1 ,AsiaFM 亚洲经典台
 http://goldfm.cn:8000/goldfm
 #EXTINF:-1 ,AsiaFM 亚洲天空台
-http://funradio.cn:8000/funradio
-#EXTINF:-1 ,CNR 经典音乐广播
-http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1 ,CCTV4k
-http://open.live-web.timetv.cn/live03/cctv4k.m3u8
-#EXTINF:-1 ,CCTV4K(2)
-https://p.ggiptv.com/v/4k.m3u8
-#EXTINF:-1 ,CCTV4K(3)
-http://ye23.win/iptv/4k.cctv.php
-#EXTINF:-1 ,CCTV13
-http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 ,CCTV13(2)
-http://39.136.48.10:8089/PLTV/88888888/224/3221226328/index.m3u8
-#EXTINF:-1 ,北京IPTV4K
-http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
 #EXTINF:-1 ,好家庭聯播網-古典音樂台
 http://onair.family977.com.tw:8000/live.mp3
